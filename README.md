@@ -1,9 +1,5 @@
 ## 🍩 react-category menu
-
-데이터에서 중복되지 않게 카테고리명 추출하기
-```javascript
-const allCategories = ['all',...new Set(items.map(item => item.category))]
-```
-
+메뉴 카테고리에 따라 내용 변경하기
+![menu](https://user-images.githubusercontent.com/74355328/131214191-fbe5d111-ee2a-4651-b427-80bcbb7a8994.png)
 
 <참고>Coding Addict
