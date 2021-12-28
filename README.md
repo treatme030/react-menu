@@ -2,9 +2,7 @@
 
 ## 🍩 react-category menu
 
-메뉴 카테고리에 따라 내용 변경하기
-
-![menu](https://user-images.githubusercontent.com/74355328/131214191-fbe5d111-ee2a-4651-b427-80bcbb7a8994.png)
+* 메뉴 카테고리에 따라 내용 변경하기
 
 ![pmenu](https://user-images.githubusercontent.com/74355328/147473355-8c5fb261-5e9a-4890-8266-88a1414fbc75.gif)
 
